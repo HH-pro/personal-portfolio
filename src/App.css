@@ -116,6 +116,8 @@ span.navbar-text {
 .social-icon {
     display: inline-block;
     margin-left: 14px;
+    margin-top: 29px;
+
 }
 .social-icon a {
     width: 42px;
@@ -512,6 +514,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 14px 48px;
   font-size: 18px;
   margin-top: 25px;
+  margin-left: 35%;
+
   border-radius: 0;
   position: relative;
   transition: 0.3s ease-in-out;
