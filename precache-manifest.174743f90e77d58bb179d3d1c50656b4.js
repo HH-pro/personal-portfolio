@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e0de78d4efb97a3874ed",
-    "url": "/personal-portfolio/static/css/main.7ecb2183.chunk.css"
+    "revision": "7b0a640a884c466ee622",
+    "url": "/personal-portfolio/static/css/main.2bba5c90.chunk.css"
   },
   {
-    "revision": "e0de78d4efb97a3874ed",
-    "url": "/personal-portfolio/static/js/main.e0de78d4.chunk.js"
+    "revision": "7b0a640a884c466ee622",
+    "url": "/personal-portfolio/static/js/main.7b0a640a.chunk.js"
   },
   {
     "revision": "0d71e04f289fc819143c",
     "url": "/personal-portfolio/static/js/1.0d71e04f.chunk.js"
   },
   {
-    "revision": "4afe769838b5e2f26ea6",
-    "url": "/personal-portfolio/static/css/2.aa3ac3c1.chunk.css"
+    "revision": "b699b5bd2814ce468b4c",
+    "url": "/personal-portfolio/static/css/2.c2ef5fa6.chunk.css"
   },
   {
-    "revision": "4afe769838b5e2f26ea6",
-    "url": "/personal-portfolio/static/js/2.4afe7698.chunk.js"
+    "revision": "b699b5bd2814ce468b4c",
+    "url": "/personal-portfolio/static/js/2.b699b5bd.chunk.js"
   },
   {
     "revision": "bb9d23dc78a4f0cd9a64",
@@ -104,16 +104,16 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/banner-bg.5f3ca497.png"
   },
   {
-    "revision": "17629a5dfe0d3c3946cf401e1895f091",
-    "url": "/personal-portfolio/static/media/revicons.17629a5d.ttf"
-  },
-  {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
     "url": "/personal-portfolio/static/media/revicons.04eb8fc5.woff"
   },
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/personal-portfolio/static/media/revicons.2feb69cc.eot"
+  },
+  {
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/personal-portfolio/static/media/revicons.17629a5d.ttf"
   },
   {
     "revision": "f750170aaddf4e5f885a27d391a311d9",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/arrow2.9070490b.svg"
   },
   {
-    "revision": "d84675d9273a6554b9eca2347dce2f68",
+    "revision": "51c1691edc7a9cc3e6fe644da38a417f",
     "url": "/personal-portfolio/index.html"
   }
 ];
