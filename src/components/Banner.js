@@ -60,8 +60,11 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Hamza`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>I build new projects just to tickle my brain and love Programming and build new things.While I keep busy in programming, I built new site's and programms.</p>
+
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  
               </div>}
+              
             </TrackVisibility>
           </Col>
           <Col xs={12} md={6} xl={5}>
@@ -69,6 +72,9 @@ export const Banner = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
                   <img src={headerImg} alt="Header Img"/>
+                  <h2 >Experties</h2>
+                  <p>Python,Django<br />React Js,Node Js<br />Html,Css,Bootstrap,javascript<br />mongodb,Heroku<br />C#,Unity GameDeveloper.</p>
+
                 </div>}
             </TrackVisibility>
           </Col>

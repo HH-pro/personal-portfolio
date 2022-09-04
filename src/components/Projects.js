@@ -15,6 +15,8 @@ import projImg10 from "../assets/img/ress.jpeg";
 import projImg11 from "../assets/img/tech.jpeg";
 import projImg12 from "../assets/img/timer.png";
 import projImg13 from "../assets/img/todo.png";
+import projImg14 from "../assets/img/cv.png";
+
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -44,49 +46,54 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "E-commerece Store",
+      description: "Online store with payments and guest user shopping",
       imgUrl: projImg5,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "E-commerece Store",
+      description: "Online store your ideal under one step",
       imgUrl: projImg6,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "E-commerece site",
+      description: "Online store with payments and guest user shopping",
       imgUrl: projImg7,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "keeper App",
+      description: "Store personal data and information",
       imgUrl: projImg8,
     },
     {
-      title: "Business Startup",
+      title: "Special Resturant point",
       description: "Design & Development",
       imgUrl: projImg9,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Food Corner",
+      description: "Online foood corner with Whatsup and cart feature",
       imgUrl: projImg10,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Tech Corner",
+      description: "Online Tech corner with Whatsup and cart featuret",
       imgUrl: projImg11,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Timer Startup",
+      description: "Countdown timer",
       imgUrl: projImg12,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "To-do list site",
+      description: "Store your personal information and data",
       imgUrl: projImg13,
+    },
+    {
+      title: "portfolio Website",
+      description: "Personal portfolio website",
+      imgUrl: projImg14,
     },
     
   ];
@@ -104,13 +111,13 @@ export const Projects = () => {
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
-                      <Nav.Link eventKey="first">Tab 1</Nav.Link>
+                      <Nav.Link eventKey="first">Past Work</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="second">Tab 2</Nav.Link>
+                      <Nav.Link eventKey="second">Past Work</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third">Tab 3</Nav.Link>
+                      <Nav.Link eventKey="third">Past Work</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
