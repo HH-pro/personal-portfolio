@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "b6914f9a0b885b7279a7",
-    "url": "/personal-portfolio/static/css/main.66ad1af5.chunk.css"
+    "revision": "75ede21a4fedfe160679",
+    "url": "/personal-portfolio/static/css/main.2d9bfdcf.chunk.css"
   },
   {
-    "revision": "b6914f9a0b885b7279a7",
-    "url": "/personal-portfolio/static/js/main.b6914f9a.chunk.js"
+    "revision": "75ede21a4fedfe160679",
+    "url": "/personal-portfolio/static/js/main.75ede21a.chunk.js"
   },
   {
-    "revision": "5fbdb5cdd6feaee873f2",
-    "url": "/personal-portfolio/static/js/1.5fbdb5cd.chunk.js"
+    "revision": "4620c4dd021471bddc6d",
+    "url": "/personal-portfolio/static/js/1.4620c4dd.chunk.js"
   },
   {
-    "revision": "1d70f6b5a20c8fd6d187",
-    "url": "/personal-portfolio/static/css/2.9a2aa4cf.chunk.css"
+    "revision": "1fd786ba68e4ad81f61e",
+    "url": "/personal-portfolio/static/css/2.69ed3fe3.chunk.css"
   },
   {
-    "revision": "1d70f6b5a20c8fd6d187",
-    "url": "/personal-portfolio/static/js/2.1d70f6b5.chunk.js"
+    "revision": "1fd786ba68e4ad81f61e",
+    "url": "/personal-portfolio/static/js/2.1fd786ba.chunk.js"
   },
   {
-    "revision": "28103cb90606a84f6873",
-    "url": "/personal-portfolio/static/js/runtime~main.28103cb9.js"
+    "revision": "5b24a08571de38087071",
+    "url": "/personal-portfolio/static/js/runtime~main.5b24a085.js"
   },
   {
     "revision": "dff2b6246274897c980cd8a354f7f979",
@@ -112,6 +112,10 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/todo.bd44076f.png"
   },
   {
+    "revision": "487612de8d7db4995980145315f2b0b4",
+    "url": "/personal-portfolio/static/media/cv.487612de.png"
+  },
+  {
     "revision": "42c4dbf649597b4d4ceaf4c9792de60a",
     "url": "/personal-portfolio/static/media/color-sharp2.42c4dbf6.png"
   },
@@ -124,16 +128,16 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/logo.06e73328.svg"
   },
   {
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/personal-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
+  },
+  {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/personal-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/personal-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
-  },
-  {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/personal-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "e9228c17c13a87653f1b8ed01a3ff306",
@@ -148,12 +152,12 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/revicons.04eb8fc5.woff"
   },
   {
-    "revision": "17629a5dfe0d3c3946cf401e1895f091",
-    "url": "/personal-portfolio/static/media/revicons.17629a5d.ttf"
-  },
-  {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/personal-portfolio/static/media/revicons.2feb69cc.eot"
+  },
+  {
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/personal-portfolio/static/media/revicons.17629a5d.ttf"
   },
   {
     "revision": "f750170aaddf4e5f885a27d391a311d9",
@@ -164,7 +168,7 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/arrow2.9070490b.svg"
   },
   {
-    "revision": "2b8795719ceaed2fbb52810c1e7895d7",
+    "revision": "7649684d52ce432216725cf8f4b4b149",
     "url": "/personal-portfolio/index.html"
   }
 ];
