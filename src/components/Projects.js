@@ -16,6 +16,11 @@ import projImg11 from "../assets/img/tech.jpeg";
 import projImg12 from "../assets/img/timer.png";
 import projImg13 from "../assets/img/todo.png";
 import projImg14 from "../assets/img/cv.png";
+import projImg15 from "../assets/img/buddy.png";
+import projImg16 from "../assets/img/doc.png";
+import projImg17 from "../assets/img/job.png";
+import projImg18 from "../assets/img/staff.png";
+
 
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -95,6 +100,17 @@ export const Projects = () => {
       description: "Personal portfolio website",
       imgUrl: projImg14,
     },
+    {
+      title: "portfolio Website",
+      description: "Personal portfolio website",
+      imgUrl: projImg15,
+    },
+    {
+      title: "Votting buddy Website",
+      description: "Take Quiz about political",
+      imgUrl: projImg16,
+    },
+   
     
   ];
 
@@ -136,10 +152,8 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
