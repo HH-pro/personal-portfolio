@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "eb39214bf7e82164cb62",
-    "url": "/personal-portfolio/static/css/main.6f2d4559.chunk.css"
+    "revision": "158ed2824bf73b1e0da9",
+    "url": "/personal-portfolio/static/css/main.991fc160.chunk.css"
   },
   {
-    "revision": "eb39214bf7e82164cb62",
-    "url": "/personal-portfolio/static/js/main.eb39214b.chunk.js"
+    "revision": "158ed2824bf73b1e0da9",
+    "url": "/personal-portfolio/static/js/main.158ed282.chunk.js"
   },
   {
-    "revision": "655ced442bf892c5e859",
-    "url": "/personal-portfolio/static/js/1.655ced44.chunk.js"
+    "revision": "90f743255ce3241dd1a5",
+    "url": "/personal-portfolio/static/js/1.90f74325.chunk.js"
   },
   {
-    "revision": "e317b033cdcf7a43b182",
-    "url": "/personal-portfolio/static/css/2.075de1e2.chunk.css"
+    "revision": "00d8a9d405a3caacc777",
+    "url": "/personal-portfolio/static/css/2.706437cf.chunk.css"
   },
   {
-    "revision": "e317b033cdcf7a43b182",
-    "url": "/personal-portfolio/static/js/2.e317b033.chunk.js"
+    "revision": "00d8a9d405a3caacc777",
+    "url": "/personal-portfolio/static/js/2.00d8a9d4.chunk.js"
   },
   {
-    "revision": "bc164f0a12c64695c62b",
-    "url": "/personal-portfolio/static/js/runtime~main.bc164f0a.js"
+    "revision": "8d4768d1501e21328da1",
+    "url": "/personal-portfolio/static/js/runtime~main.8d4768d1.js"
   },
   {
     "revision": "dff2b6246274897c980cd8a354f7f979",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/nav-icon3.81ff4e97.svg"
   },
   {
-    "revision": "d088d93cf0b893d29baf0993ef52c663",
-    "url": "/personal-portfolio/static/media/logo.d088d93c.svg"
-  },
-  {
     "revision": "dea05c56b45857a24dcba5a23202ec70",
     "url": "/personal-portfolio/static/media/meter1.dea05c56.svg"
+  },
+  {
+    "revision": "d088d93cf0b893d29baf0993ef52c663",
+    "url": "/personal-portfolio/static/media/logo.d088d93c.svg"
   },
   {
     "revision": "bfe6d1a6d579d73c0c625ec0afe2855b",
@@ -124,6 +124,22 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/doc.1f8c5c37.png"
   },
   {
+    "revision": "0f2a2a765395bd336ed9179697a60622",
+    "url": "/personal-portfolio/static/media/pizz.0f2a2a76.png"
+  },
+  {
+    "revision": "08b07591c01b381be766d060c62f1855",
+    "url": "/personal-portfolio/static/media/study.08b07591.jpg"
+  },
+  {
+    "revision": "6cfdedc01a4f939bb0bc59fab50c524a",
+    "url": "/personal-portfolio/static/media/keep.6cfdedc0.png"
+  },
+  {
+    "revision": "32de1da7237f339bff9c480de7bc0829",
+    "url": "/personal-portfolio/static/media/raise.32de1da7.jpg"
+  },
+  {
     "revision": "42c4dbf649597b4d4ceaf4c9792de60a",
     "url": "/personal-portfolio/static/media/color-sharp2.42c4dbf6.png"
   },
@@ -136,6 +152,10 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/logo.06e73328.svg"
   },
   {
+    "revision": "386f05946a76935fcabf319affff517a",
+    "url": "/personal-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
+  },
+  {
     "revision": "4ea3794d631bedab7999678f46b0a162",
     "url": "/personal-portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
@@ -144,24 +164,20 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
-    "revision": "386f05946a76935fcabf319affff517a",
-    "url": "/personal-portfolio/static/media/CentraNo2-Book.386f0594.ttf"
+    "revision": "e9228c17c13a87653f1b8ed01a3ff306",
+    "url": "/personal-portfolio/static/media/footer-bg.e9228c17.png"
   },
   {
     "revision": "5f3ca49706055342e92708c7dd31849f",
     "url": "/personal-portfolio/static/media/banner-bg.5f3ca497.png"
   },
   {
-    "revision": "e9228c17c13a87653f1b8ed01a3ff306",
-    "url": "/personal-portfolio/static/media/footer-bg.e9228c17.png"
+    "revision": "17629a5dfe0d3c3946cf401e1895f091",
+    "url": "/personal-portfolio/static/media/revicons.17629a5d.ttf"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
     "url": "/personal-portfolio/static/media/revicons.04eb8fc5.woff"
-  },
-  {
-    "revision": "17629a5dfe0d3c3946cf401e1895f091",
-    "url": "/personal-portfolio/static/media/revicons.17629a5d.ttf"
   },
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
@@ -176,15 +192,7 @@ self.__precacheManifest = [
     "url": "/personal-portfolio/static/media/arrow2.9070490b.svg"
   },
   {
-    "revision": "9d731ab124db627d768b9dcca96cc77e",
-    "url": "/personal-portfolio/static/media/job.9d731ab1.png"
-  },
-  {
-    "revision": "14a06ef1a71032baa15798c4bcbe7429",
-    "url": "/personal-portfolio/static/media/staff.14a06ef1.png"
-  },
-  {
-    "revision": "e749295f1c0b5132feee891c5fa2cc9b",
+    "revision": "d353a41fde52ccd19953abcc8651f1db",
     "url": "/personal-portfolio/index.html"
   }
 ];
