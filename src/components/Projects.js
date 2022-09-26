@@ -18,8 +18,12 @@ import projImg13 from "../assets/img/todo.png";
 import projImg14 from "../assets/img/cv.png";
 import projImg15 from "../assets/img/buddy.png";
 import projImg16 from "../assets/img/doc.png";
-import projImg17 from "../assets/img/job.png";
-import projImg18 from "../assets/img/staff.png";
+import projImg17 from "../assets/img/pizz.png";
+import projImg18 from "../assets/img/study.jpg";
+import projImg19 from "../assets/img/keep.png";
+import projImg20 from "../assets/img/raise.jpg";
+
+
 
 
 
@@ -101,14 +105,34 @@ export const Projects = () => {
       imgUrl: projImg14,
     },
     {
-      title: "portfolio Website",
+      title: "Votting buddy Website",
       description: "Personal portfolio website",
       imgUrl: projImg15,
     },
     {
-      title: "Votting buddy Website",
-      description: "Take Quiz about political",
+      title: "Doctor's Site",
+      description: "Doctor Appointments",
       imgUrl: projImg16,
+    },
+    {
+      title: "Keeper app",
+      description: "Store Your personal informations",
+      imgUrl: projImg19,
+    },
+    {
+      title: "Resturant Website",
+      description: "Corner of food",
+      imgUrl: projImg17,
+    },
+    {
+      title: "Donation Organization Website",
+      description: "Help Others",
+      imgUrl: projImg18,
+    },
+    {
+      title: "Learning Website",
+      description: "Learn with online instructors",
+      imgUrl: projImg20,
     },
    
     
