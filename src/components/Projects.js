@@ -22,6 +22,7 @@ import projImg17 from "../assets/img/pizz.png";
 import projImg18 from "../assets/img/study.jpg";
 import projImg19 from "../assets/img/keep.png";
 import projImg20 from "../assets/img/raise.jpg";
+import projImg21 from "../assets/img/mobile.png";
 
 
 
@@ -39,6 +40,7 @@ export const Projects = () => {
       description: "Gym management website & Software",
       imgUrl: projImg4,
     },
+
     {
       title: "Business Startup",
       description: "Design & Development",
@@ -134,6 +136,11 @@ export const Projects = () => {
       description: "Learn with online instructors",
       imgUrl: projImg20,
     },
+      {
+      title: "Mobile Website",
+      description: "Mobile Store",
+      imgUrl: projImg21,
+    },
    
     
   ];
@@ -147,7 +154,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>I am Full stack Web Developer and Unity Game Developer....</p>
+                <p>I am Full stack Web Developer....</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>

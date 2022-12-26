@@ -13,7 +13,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Web Developer", "Web Designer", "UI/UX Designer" ];
+  const toRotate = [ "Full Stack Web Developer" ];
   const period = 2000;
 
   useEffect(() => {
@@ -73,7 +73,7 @@ export const Banner = () => {
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
                   <img src={headerImg} alt="Header Img"/>
                   <h2 >Experties</h2>
-                  <p>Python,Django<br />React Js,Node Js<br />Html,Css,Bootstrap,javascript<br />mongodb,Heroku<br />C#,Unity GameDeveloper.</p>
+                  <p>Python,Django<br />React Js,Node Js<br />Html,Css,Bootstrap,javascript<br />mongodb,Heroku<br />Hosting <br />C#,Unity GameDeveloper.</p>
 
                 </div>}
             </TrackVisibility>
